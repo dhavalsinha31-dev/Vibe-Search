@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "Starlight Odyssey",
+        "genre": "Sci-Fi",
+        "release_year": 2021,
+        "rating": "PG-13",
+        "poster_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A crew of astronauts embarks on a mind-bending journey through a newly discovered wormhole, encountering strange new worlds and testing the limits of human endurance. It feels epic and awe-inspiring, but is surprisingly safe for older kids and has very low violence."
+    },
+    {
+        "id": 2,
+        "title": "The Last Laugh",
+        "genre": "Comedy",
+        "release_year": 2018,
+        "rating": "R",
+        "poster_url": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A washed-up stand-up comedian takes on a protégé, leading to a hilarious, gritty, and often dark road trip across the country. It's fast-paced, cynical, and full of biting sarcasm."
+    },
+    {
+        "id": 3,
+        "title": "Autumn Whispers",
+        "genre": "Romance",
+        "release_year": 2015,
+        "rating": "PG",
+        "poster_url": "https://images.unsplash.com/photo-1505027368936-71d5ba596da2?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "Two childhood friends reconnect in their small hometown during the fall season. It's a heartwarming, cozy, and relaxing romantic movie that won't make you cry, focusing purely on sweet, uplifting moments."
+    },
+    {
+        "id": 4,
+        "title": "Neon Grid",
+        "genre": "Action",
+        "release_year": 2023,
+        "rating": "R",
+        "poster_url": "https://images.unsplash.com/photo-1555448248-2571daf6344b?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "In a cyberpunk future, a rogue hacker must navigate a neon-lit, gritty metropolis to dismantle an evil megacorporation. It's an intense, visually stunning action movie with blade-runner vibes and thrilling, violent combat."
+    },
+    {
+        "id": 5,
+        "title": "The Golden Cipher",
+        "genre": "Adventure",
+        "release_year": 1985,
+        "rating": "PG",
+        "poster_url": "https://images.unsplash.com/photo-1533519881691-e4070a2fdbcc?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A group of teenage misfits discovers an ancient map that leads to a legendary pirate's treasure. It's a classic 80s adventure movie involving treasure hunting, filled with traps, puzzles, and lighthearted fun."
+    },
+    {
+        "id": 6,
+        "title": "Midnight Inception",
+        "genre": "Thriller",
+        "release_year": 2010,
+        "rating": "PG-13",
+        "poster_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. It's a cerebral, complex, and suspenseful heist movie."
+    },
+    {
+        "id": 7,
+        "title": "Echoes of the Glen",
+        "genre": "Drama",
+        "release_year": 1994,
+        "rating": "PG",
+        "poster_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A peaceful historical drama set in the Scottish Highlands following a family's struggles and triumphs over a decade. It's slow-paced, visually beautiful, and deeply emotional but avoids tragedy."
+    },
+    {
+        "id": 8,
+        "title": "Velocity Protocol",
+        "genre": "Action",
+        "release_year": 2019,
+        "rating": "PG-13",
+        "poster_url": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A secret agent must stop a biological threat by engaging in high-speed chases across European capitals. It's a very fast-paced action movie that's relatively safe with spectacular stunts but no gore."
+    },
+    {
+        "id": 9,
+        "title": "Shadows of the Manor",
+        "genre": "Horror",
+        "release_year": 2022,
+        "rating": "R",
+        "poster_url": "https://images.unsplash.com/photo-1519408299519-b7a0274f7d67?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A family moves into an old, isolated estate only to discover it's haunted by a malevolent entity. It's a terrifying, psychological horror film that is extremely tense and definitely not relaxing."
+    },
+    {
+        "id": 10,
+        "title": "Galactic Pioneers",
+        "genre": "Animation",
+        "release_year": 2008,
+        "rating": "G",
+        "poster_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A plucky robot is left to clean up a deserted Earth until he meets a sleek probe and follows her into space. It's a charming, family-friendly animated sci-fi film that is very heartwarming."
+    },
+    {
+        "id": 11,
+        "title": "The Dusty Trail",
+        "genre": "Western",
+        "release_year": 1968,
+        "rating": "PG",
+        "poster_url": "https://images.unsplash.com/photo-1510250669288-013143c7b805?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A lone gunslinger arrives in a corrupt town and plays two rival families against each other. It's a classic, gritty spaghetti western with an iconic soundtrack."
+    },
+    {
+        "id": 12,
+        "title": "City Limiters",
+        "genre": "Documentary",
+        "release_year": 2020,
+        "rating": "PG",
+        "poster_url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "An insightful look into how urban planners are designing smart cities for the future to combat climate change. It's educational, inspiring, and very relaxing to watch."
+    },
+    {
+        "id": 13,
+        "title": "Sword of the Ancestors",
+        "genre": "Fantasy",
+        "release_year": 2001,
+        "rating": "PG-13",
+        "poster_url": "https://images.unsplash.com/photo-1535905557558-afc4877a26f3?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A young farm boy discovers he is the heir to a magical kingdom and must journey across middle-earth to defeat a dark lord. It's an epic, sweeping fantasy adventure with grand battles."
+    },
+    {
+        "id": 14,
+        "title": "Office Shenanigans",
+        "genre": "Comedy",
+        "release_year": 1999,
+        "rating": "R",
+        "poster_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "Software engineers miserable at their corporate jobs decide to enact a scheme to steal fractions of cents from their company. It's a deeply relatable, satirical workplace comedy."
+    },
+    {
+        "id": 15,
+        "title": "Rhythm and Blues",
+        "genre": "Musical",
+        "release_year": 2016,
+        "rating": "PG-13",
+        "poster_url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?q=80&w=600&auto=format&fit=crop",
+        "short_plot_summary": "A jazz pianist and an aspiring actress fall in love while pursuing their dreams in Los Angeles. It's a romantic, visually vibrant musical with both joyful and melancholic moments."
+    }
+]
